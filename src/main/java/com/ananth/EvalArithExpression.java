@@ -5,6 +5,7 @@ import java.util.Stack;
 
 /***
  * Write a program to evaluate arithmetic expressions of the form 3 + 4  or (3+4) - 5 or (8+(3+2))-9 etc. 
+ * To extend to read multiple numbers before an operator. 
  * @author ananth
  *
  */
